@@ -4,7 +4,7 @@
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
-### Hola colegas 👋
+# Homla colemgas 👋
 
 ![image](https://user-images.githubusercontent.com/89486861/130867312-c80f5763-2f2f-43fe-bbce-ca4be6c9b6f6.png)
 
