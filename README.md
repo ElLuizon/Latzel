@@ -6,7 +6,7 @@
 ### Hola colegas 👋
 
 
-Gusto de visitar el perfil del docente 👨‍🏫 ✨ René Solis ✨.
+Gusto de visitar el perfil del estudiante  ✨ Luis Pérez ✨.
 
 Atendiendo estudiantes de PFLC y TecTijuana:
 
