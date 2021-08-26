@@ -11,7 +11,7 @@
 
 Gusto de visitar el perfil del estudiante  ✨ Luis Pérez ✨.
 
-💻Estudiante de Ingenieria en Sistemas Computacionales💻
+💻Estudiante de Ingenieria en Sistemas Computacionales del Instituto Tecnológico de Tijuana💻
 
 En Bachillerato nunca tuve conocimientos de programación pero siempre dispuesto a aprender!✏️
 
