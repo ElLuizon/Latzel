@@ -18,15 +18,18 @@ En Bachillerato nunca tuve conocimientos de programación pero siempre dispuesto
 
 Ejemplo Tablas en MD
 
-| PAC |    CLAVE   |   G  |                MATERIA                | T | CR | NPE |   |   |    LUNES    |    MARTES   |  MIERCOLES  |    JUEVES   |   VIERNES   |            CATEDRATICO            |
-|:---:|:----------:|:----:|:-------------------------------------:|:-:|:--:|:---:|:-:|---|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:---------------------------------:|
-| 04C | AEF - 1031 | SC4C | FUNDAMENTOS DE BASE DE DATOS          | R |  5 |  0  |   |   | 10:00/11:00 | 10:00/11:00 | 10:00/11:00 | 10:00/11:00 | 10:00/11:00 | RAMON ANTONIO CASTRO GARCIA       |
-| 04B | SCD - 1027 | SC4B | TOPICOS AVANZADOS DE PROGRAMACION     | N |  5 |  0  |   |   | 13:00/14:00 |             | 12:00/14:00 |             | 12:00/14:00 | CYNTHIA IVETTE MIRAMONTES ORTEGA  |
-| 06A | SCC - 1014 | SC6A | LENGUAJES DE INTERFAZ                 | N |  4 |  0  |   |   | 14:00/15:00 | 14:00/15:00 | 14:00/15:00 | 14:00/15:00 |             | RENE SOLIS REYES                  |
-| 06A | SCD - 1021 | SC6A | REDES DE COMPUTADORAS                 | N |  5 |  0  |   |   | 15:00/16:00 | 15:00/16:00 | 15:00/16:00 | 15:00/16:00 | 15:00/16:00 | MAESTRO PENDIENTE                 |
-| 08B | ACA - 0910 | SC8B | TALLER DE INVESTIGACION II            | N |  4 |  0  |   |   | 16:00/17:00 | 16:00/17:00 | 16:00/17:00 | 16:00/17:00 |             | JOSE SERGIO MAGDALENO PALENCIA    |
-| 05B | AEC - 1061 | SC5B | SISTEMAS OPERATIVOS I                 | R |  4 |  0  |   |   | 17:00/18:00 | 17:00/18:00 | 17:00/18:00 | 17:00/18:00 |             | PAOLO SERGIO ROBLES GONZALEZ      |
-| 05B | SCC - 1007 | SC5B | FUNDAMENTOS DE INGENIERIA DE SOFTWARE | N |  4 |  0  |   |   | 18:00/19:00 | 18:00/19:00 | 18:00/19:00 | 18:00/19:00 |             | REYNALDO ANDRES SALAS CARMONA     |
+|       | LUNES                            | MARTES                           | MIÉRCOLES                        | JUEVES                           | VIERNES                          |   |   |   |   |
+|-------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|---|---|---|---|
+| 14:00 | INTELIGENCIA ARTIFICIAL          | INTELIGENCIA ARTIFICIAL          | INTELIGENCIA ARTIFICIAL          | INTELIGENCIA ARTIFICIAL          |                                  |   |   |   |   |
+| 15:00 |                                  |                                  |                                  |                                  | GESTION DE PROYECTOS DE SOFTWARE |   |   |   |   |
+| 16:00 | GESTION DE PROYECTOS DE SOFTWARE | GESTION DE PROYECTOS DE SOFTWARE | GESTION DE PROYECTOS DE SOFTWARE | GESTION DE PROYECTOS DE SOFTWARE | GESTION DE PROYECTOS DE SOFTWARE |   |   |   |   |
+| 17:00 | SISTEMAS PROGRAMABLES            | SISTEMAS PROGRAMABLES            | SISTEMAS PROGRAMABLES            | SISTEMAS PROGRAMABLES            |                                  |   |   |   |   |
+| 18:00 | LENGUAJES Y AUTOMATAS II         | LENGUAJES Y AUTOMATAS II         | LENGUAJES Y AUTOMATAS II         | LENGUAJES Y AUTOMATAS II         | LENGUAJES Y AUTOMATAS II         |   |   |   |   |
+| 19:00 | ADMINISTRACION DE REDES          | ADMINISTRACION DE REDES          | ADMINISTRACION DE REDES          | ADMINISTRACION DE REDES          |                                  |   |   |   |   |
+| 20:00 |                                  |                                  |                                  |                                  |                                  |   |   |   |   |
+|       |                                  |                                  |                                  |                                  |                                  |   |   |   |   |
+|       |                                  |                                  |                                  |                                  |                                  |   |   |   |   |
+
 
 Guias:
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
